@@ -1,0 +1,64 @@
+header div {
+    display: inline-block;
+}
+.left .fa-youtube {
+    margin-left: 20px;
+}
+
+.left span {
+    font-weight: bold;
+}
+
+.center {
+    margin-left: 200px;
+}
+
+.chegara {
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+input {
+    border: none;
+    width: 400px;
+}
+
+input:focus {
+    outline: none;
+}
+
+.lupacha {
+    padding: 5px 20px;
+    margin-left: -4px;
+}
+
+.right {
+    margin-left: 210px;
+}
+
+.right i {
+    margin: 10px;
+}
+
+.displayinline,
+.display,
+.block,
+.inline,
+.html,
+.displayinlineblock {
+    display: inline-block;
+    margin: 5px;
+}
+
+.stayle {
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
