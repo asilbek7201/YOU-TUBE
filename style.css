@@ -52,7 +52,95 @@ input:focus {
 
 .stayle {
     border-radius: 50%;
+    margin-top: 15px;
 }
+
+.qator,
+.qatorr {
+    display: inline-block;
+    margin-right: 4px;
+    
+
+    
+}
+
+.de {
+    margin-bottom: 0;
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+.kalit {
+    margin-top: 0;
+}
+
+
+.class {
+    display: inline-block;
+    float: right;
+
+}
+
+.button {
+    background-color: red;
+    color: white;
+    text-transform: uppercase;
+    padding: 5px 15px;
+    border: none;
+    font-weight: bold;
+  
+}
+
+.classs {
+    text-decoration: none;
+}
+
+main {
+    width: 850px;
+    background-color: bisque;
+    float: left;
+}
+
+aside {
+    width: 470px;
+    background-color:aquamarine;
+    height: 300px;
+    float: right;
+}
+
+.p,
+.c {
+    display: inline-block;
+}
+
+.img {
+    border-radius: 50px;
+    margin-bottom: 40px;
+}
+
+
+* {
+    border: 1px solid blue;
+}
+
+.pp {
+    margin-bottom: 0;
+}
+
+.cc {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+
+
+
+
+
 
 
 
