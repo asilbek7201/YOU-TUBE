@@ -105,9 +105,9 @@ main {
 }
 
 aside {
-    width: 470px;
-    background-color:aquamarine;
-    height: 300px;
+    width: 475px;
+    background-color:aquamarine; */
+    height: 300px; 
     float: right;
 }
 
@@ -122,9 +122,9 @@ aside {
 }
 
 
-* {
+/* * {
     border: 1px solid blue;
-}
+} */
 
 .pp {
     margin-bottom: 0;
@@ -134,6 +134,102 @@ aside {
     margin-top: 0;
     margin-bottom: 0;
 }
+/* 
+.yonmayon {
+    display: inline-block;
+    
+} */
+
+.komputer {
+    float: left;
+    width: 100px;
+}
+
+.computer {
+    float: right;
+    width: 366px;
+    font-weight: 900;
+    
+}
+
+.futbol {
+    float: left;
+    width: 100px;
+}
+
+.salom {
+    float: right;
+    width: 366px;
+    font-weight: 900;
+}
+
+.asliddin {
+    clear: both;
+}
+
+.kusko {
+    float: left;
+    width: 100px;
+}
+
+.soat {
+    float: right;
+    width: 366px;
+    font-weight: 900;
+}
+
+.rasm {
+    float: left;
+    width: 100px;
+}
+
+.yozuv {
+    float: right;
+    width: 366px;
+    font-weight: 900;
+}
+
+.nima {
+    float: left;
+    width: 100px;
+}
+
+.imperator {
+    float: right;
+    width: 366px;
+    font-weight: 900;
+}
+
+.kronk {
+    float: left;
+    width: 100px;
+}
+
+.saroy {
+    float: right;
+    width: 366px;
+    font-weight: 900;
+}
+
+footer {
+    clear: both;
+    background-color: lavender;  
+}
+
+.f {
+    color: black;
+    text-decoration: none;
+    margin: 5px;
+    
+}
+
+.buton {
+    color: gray;
+    margin: 5px; 
+  
+}
+
+
 
 
 
